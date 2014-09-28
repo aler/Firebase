@@ -1,4 +1,5 @@
 Firebase
 ========
 
-Firebase SDK
+Helper repo to use Firebase as a submodule
+
